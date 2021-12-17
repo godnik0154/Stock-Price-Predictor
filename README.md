@@ -1,2 +1,1 @@
-# Stock-Price-Predictor
-   Backend Development Webcube Infotech, Virtual Nov 2021 - Dec 2021 My work was to design the whole back-end of the E-commerce platform, designing APIs, Deployment along with database, Deployment on Heroku. It helped with learning new skills like 3rd Party CLI Prisma and use it with PostgreSQL.   StockPredictor VJTI, Mumbai May 2021 - Jul 2021 A tool for predicting Stock Prices after certain interval of time using Deep Learning models and Regression Learning
+A tool for predicting Stock Prices after certain interval of time using Deep Learning models and Regression Learning.
